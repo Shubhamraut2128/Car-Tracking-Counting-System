@@ -7,10 +7,15 @@ The system assigns a unique ID to every car and counts the number of cars that a
 ⭐ Features
 
 ✔ Detects cars in real-time
+
 ✔ Tracks cars using YOLOv8 built-in tracker
+
 ✔ Counts unique cars
+
 ✔ Works with images & videos
+
 ✔ Supports GPU acceleration
+
 ✔ Easy to integrate into traffic analytics systems
 
 🧠 Technologies Used
